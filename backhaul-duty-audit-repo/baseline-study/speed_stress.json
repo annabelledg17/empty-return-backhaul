@@ -1,0 +1,627 @@
+{
+  "rows": [
+    {
+      "speed": 15.0,
+      "seed": 0,
+      "infeasible": false,
+      "base_km": 541.4081595234645,
+      "joint_km": 495.58957590209,
+      "saving_pct": 8.462854283855457,
+      "matched": 1,
+      "extra_truck_minutes": 101.38440927775724
+    },
+    {
+      "speed": 15.0,
+      "seed": 1,
+      "infeasible": false,
+      "base_km": 555.1729579360797,
+      "joint_km": 492.18000382767434,
+      "saving_pct": 11.346545830075911,
+      "matched": 1,
+      "extra_truck_minutes": 120.05198169604631
+    },
+    {
+      "speed": 15.0,
+      "seed": 2,
+      "infeasible": false,
+      "base_km": 512.156559165677,
+      "joint_km": 445.0267654369957,
+      "saving_pct": 13.107279898560385,
+      "matched": 1,
+      "extra_truck_minutes": 44.80879861750347
+    },
+    {
+      "speed": 15.0,
+      "seed": 3,
+      "infeasible": false,
+      "base_km": 517.8155388915357,
+      "joint_km": 472.43469595269966,
+      "saving_pct": 8.763901337526626,
+      "matched": 1,
+      "extra_truck_minutes": 105.80274750441137
+    },
+    {
+      "speed": 15.0,
+      "seed": 4,
+      "infeasible": false,
+      "base_km": 445.4510961173647,
+      "joint_km": 445.4510961173647,
+      "saving_pct": 0.0,
+      "matched": 0,
+      "extra_truck_minutes": 0
+    },
+    {
+      "speed": 15.0,
+      "seed": 5,
+      "infeasible": false,
+      "base_km": 500.8489826675961,
+      "joint_km": 467.6179157637439,
+      "saving_pct": 6.634947469965617,
+      "matched": 2,
+      "extra_truck_minutes": 188.23246027867066
+    },
+    {
+      "speed": 15.0,
+      "seed": 6,
+      "infeasible": false,
+      "base_km": 574.7872498144495,
+      "joint_km": 526.1370336300101,
+      "saving_pct": 8.464038859620572,
+      "matched": 1,
+      "extra_truck_minutes": 89.78384633134326
+    },
+    {
+      "speed": 15.0,
+      "seed": 7,
+      "infeasible": false,
+      "base_km": 491.4329360222407,
+      "joint_km": 491.4329360222407,
+      "saving_pct": 0.0,
+      "matched": 0,
+      "extra_truck_minutes": 0
+    },
+    {
+      "speed": 15.0,
+      "seed": 8,
+      "infeasible": false,
+      "base_km": 480.351101262536,
+      "joint_km": 418.1420183277698,
+      "saving_pct": 12.950752641402989,
+      "matched": 1,
+      "extra_truck_minutes": 66.95591930394102
+    },
+    {
+      "speed": 15.0,
+      "seed": 9,
+      "infeasible": false,
+      "base_km": 503.47831276560873,
+      "joint_km": 450.59221183252396,
+      "saving_pct": 10.50414677100612,
+      "matched": 1,
+      "extra_truck_minutes": 114.85833921554558
+    },
+    {
+      "speed": 15.0,
+      "seed": 10,
+      "infeasible": false,
+      "base_km": 533.2709476061208,
+      "joint_km": 477.26774495279693,
+      "saving_pct": 10.501828930438636,
+      "matched": 1,
+      "extra_truck_minutes": 55.2824341365785
+    },
+    {
+      "speed": 15.0,
+      "seed": 11,
+      "infeasible": false,
+      "base_km": 548.6773075825263,
+      "joint_km": 496.803807084841,
+      "saving_pct": 9.4542821036722,
+      "matched": 1,
+      "extra_truck_minutes": 168.75810482104862
+    },
+    {
+      "speed": 15.0,
+      "seed": 12,
+      "infeasible": false,
+      "base_km": 492.55154660424625,
+      "joint_km": 438.6801625676154,
+      "saving_pct": 10.937207366017114,
+      "matched": 1,
+      "extra_truck_minutes": 127.76044571731096
+    },
+    {
+      "speed": 15.0,
+      "seed": 13,
+      "infeasible": false,
+      "base_km": 506.0029017614504,
+      "joint_km": 461.4194132416664,
+      "saving_pct": 8.810915582615058,
+      "matched": 1,
+      "extra_truck_minutes": 102.13987305174481
+    },
+    {
+      "speed": 15.0,
+      "seed": 14,
+      "infeasible": false,
+      "base_km": 439.80869073412237,
+      "joint_km": 396.92729507341977,
+      "saving_pct": 9.750010985259427,
+      "matched": 1,
+      "extra_truck_minutes": 151.66465897686385
+    },
+    {
+      "speed": 15.0,
+      "seed": 15,
+      "infeasible": false,
+      "base_km": 557.0134824954155,
+      "joint_km": 459.54391190815863,
+      "saving_pct": 17.498601676676483,
+      "matched": 4,
+      "extra_truck_minutes": 331.9728503129968
+    },
+    {
+      "speed": 15.0,
+      "seed": 16,
+      "infeasible": false,
+      "base_km": 483.85514364317135,
+      "joint_km": 429.20190937743973,
+      "saving_pct": 11.295371142326168,
+      "matched": 1,
+      "extra_truck_minutes": 119.43949774935362
+    },
+    {
+      "speed": 15.0,
+      "seed": 17,
+      "infeasible": false,
+      "base_km": 560.5823981546537,
+      "joint_km": 488.6207946919028,
+      "saving_pct": 12.836935961535145,
+      "matched": 1,
+      "extra_truck_minutes": 35.845251167271044
+    },
+    {
+      "speed": 15.0,
+      "seed": 18,
+      "infeasible": false,
+      "base_km": 495.52369741476014,
+      "joint_km": 495.52369741476014,
+      "saving_pct": 0.0,
+      "matched": 0,
+      "extra_truck_minutes": 0
+    },
+    {
+      "speed": 15.0,
+      "seed": 19,
+      "infeasible": false,
+      "base_km": 489.91473622684526,
+      "joint_km": 430.7962855662476,
+      "saving_pct": 12.067089697261942,
+      "matched": 1,
+      "extra_truck_minutes": 100.71023257300936
+    },
+    {
+      "speed": 30.0,
+      "seed": 0,
+      "infeasible": false,
+      "base_km": 541.4081595234645,
+      "joint_km": 495.58957590209,
+      "saving_pct": 8.462854283855457,
+      "matched": 1,
+      "extra_truck_minutes": 65.6922046388786
+    },
+    {
+      "speed": 30.0,
+      "seed": 1,
+      "infeasible": false,
+      "base_km": 548.0525947856479,
+      "joint_km": 492.18000382767434,
+      "saving_pct": 10.194749826853062,
+      "matched": 1,
+      "extra_truck_minutes": 110.80164459459603
+    },
+    {
+      "speed": 30.0,
+      "seed": 2,
+      "infeasible": false,
+      "base_km": 504.0887208963377,
+      "joint_km": 435.7955750975568,
+      "saving_pct": 13.547842466569467,
+      "matched": 1,
+      "extra_truck_minutes": 42.678790024032224
+    },
+    {
+      "speed": 30.0,
+      "seed": 3,
+      "infeasible": false,
+      "base_km": 512.0659344605085,
+      "joint_km": 469.55196919747266,
+      "saving_pct": 8.302439666842282,
+      "matched": 1,
+      "extra_truck_minutes": 83.11330352597497
+    },
+    {
+      "speed": 30.0,
+      "seed": 4,
+      "infeasible": false,
+      "base_km": 443.83182228045416,
+      "joint_km": 443.83182228045416,
+      "saving_pct": 0.0,
+      "matched": 0,
+      "extra_truck_minutes": 0
+    },
+    {
+      "speed": 30.0,
+      "seed": 5,
+      "infeasible": false,
+      "base_km": 495.6354151198121,
+      "joint_km": 450.8633180896139,
+      "saving_pct": 9.03327237408473,
+      "matched": 1,
+      "extra_truck_minutes": 89.5410724656154
+    },
+    {
+      "speed": 30.0,
+      "seed": 6,
+      "infeasible": false,
+      "base_km": 574.7872498144495,
+      "joint_km": 520.4780399432451,
+      "saving_pct": 9.44857595375268,
+      "matched": 1,
+      "extra_truck_minutes": 67.78226237546599
+    },
+    {
+      "speed": 30.0,
+      "seed": 7,
+      "infeasible": false,
+      "base_km": 490.96455308193833,
+      "joint_km": 490.96455308193833,
+      "saving_pct": 0.0,
+      "matched": 0,
+      "extra_truck_minutes": 0
+    },
+    {
+      "speed": 30.0,
+      "seed": 8,
+      "infeasible": false,
+      "base_km": 478.60377053205576,
+      "joint_km": 416.3946875972895,
+      "saving_pct": 12.99803444206248,
+      "matched": 1,
+      "extra_truck_minutes": 79.67362174715214
+    },
+    {
+      "speed": 30.0,
+      "seed": 9,
+      "infeasible": false,
+      "base_km": 498.94731269368486,
+      "joint_km": 448.615304505373,
+      "saving_pct": 10.087639898606257,
+      "matched": 1,
+      "extra_truck_minutes": 53.789850567274534
+    },
+    {
+      "speed": 30.0,
+      "seed": 10,
+      "infeasible": false,
+      "base_km": 533.0199025108677,
+      "joint_km": 477.01669985754376,
+      "saving_pct": 10.506775148453697,
+      "matched": 1,
+      "extra_truck_minutes": 42.64121706828925
+    },
+    {
+      "speed": 30.0,
+      "seed": 11,
+      "infeasible": false,
+      "base_km": 547.0028957014797,
+      "joint_km": 496.803807084841,
+      "saving_pct": 9.177115699225517,
+      "matched": 1,
+      "extra_truck_minutes": 134.6872553846512
+    },
+    {
+      "speed": 30.0,
+      "seed": 12,
+      "infeasible": false,
+      "base_km": 492.55154660424625,
+      "joint_km": 438.55056825803615,
+      "saving_pct": 10.963518177641342,
+      "matched": 1,
+      "extra_truck_minutes": 107.90204209136114
+    },
+    {
+      "speed": 30.0,
+      "seed": 13,
+      "infeasible": false,
+      "base_km": 501.2285897448798,
+      "joint_km": 457.4691331699891,
+      "saving_pct": 8.730439059185311,
+      "matched": 1,
+      "extra_truck_minutes": 66.06993652587244
+    },
+    {
+      "speed": 30.0,
+      "seed": 14,
+      "infeasible": false,
+      "base_km": 438.96726783946076,
+      "joint_km": 395.79715676550296,
+      "saving_pct": 9.83447155101915,
+      "matched": 1,
+      "extra_truck_minutes": 112.0625376312299
+    },
+    {
+      "speed": 30.0,
+      "seed": 15,
+      "infeasible": false,
+      "base_km": 554.6523167184852,
+      "joint_km": 455.7780976943789,
+      "saving_pct": 17.826342024329822,
+      "matched": 4,
+      "extra_truck_minutes": 251.42029138874952
+    },
+    {
+      "speed": 30.0,
+      "seed": 16,
+      "infeasible": false,
+      "base_km": 483.28319762151193,
+      "joint_km": 429.20190937743973,
+      "saving_pct": 11.190392819414033,
+      "matched": 1,
+      "extra_truck_minutes": 93.45607837628569
+    },
+    {
+      "speed": 30.0,
+      "seed": 17,
+      "infeasible": false,
+      "base_km": 560.5722195842354,
+      "joint_km": 488.6207946919028,
+      "saving_pct": 12.835353301256612,
+      "matched": 1,
+      "extra_truck_minutes": 32.92262558363555
+    },
+    {
+      "speed": 30.0,
+      "seed": 18,
+      "infeasible": false,
+      "base_km": 493.46336405218915,
+      "joint_km": 493.46336405218915,
+      "saving_pct": 0.0,
+      "matched": 0,
+      "extra_truck_minutes": 0
+    },
+    {
+      "speed": 30.0,
+      "seed": 19,
+      "infeasible": false,
+      "base_km": 489.91473622684526,
+      "joint_km": 430.7962855662476,
+      "saving_pct": 12.067089697261942,
+      "matched": 1,
+      "extra_truck_minutes": 76.96004413177887
+    },
+    {
+      "speed": 45.0,
+      "seed": 0,
+      "infeasible": false,
+      "base_km": 541.4081595234645,
+      "joint_km": 495.58957590209,
+      "saving_pct": 8.462854283855457,
+      "matched": 1,
+      "extra_truck_minutes": 53.79480309258574
+    },
+    {
+      "speed": 45.0,
+      "seed": 1,
+      "infeasible": false,
+      "base_km": 548.0525947856479,
+      "joint_km": 492.18000382767434,
+      "saving_pct": 10.194749826853062,
+      "matched": 1,
+      "extra_truck_minutes": 107.71819889411256
+    },
+    {
+      "speed": 45.0,
+      "seed": 2,
+      "infeasible": false,
+      "base_km": 504.0887208963377,
+      "joint_km": 435.7955750975568,
+      "saving_pct": 13.547842466569467,
+      "matched": 1,
+      "extra_truck_minutes": 50.44440437449249
+    },
+    {
+      "speed": 45.0,
+      "seed": 3,
+      "infeasible": false,
+      "base_km": 512.0659344605085,
+      "joint_km": 469.55196919747266,
+      "saving_pct": 8.302439666842282,
+      "matched": 1,
+      "extra_truck_minutes": 84.06187198976384
+    },
+    {
+      "speed": 45.0,
+      "seed": 4,
+      "infeasible": false,
+      "base_km": 443.83182228045416,
+      "joint_km": 443.83182228045416,
+      "saving_pct": 0.0,
+      "matched": 0,
+      "extra_truck_minutes": 0
+    },
+    {
+      "speed": 45.0,
+      "seed": 5,
+      "infeasible": false,
+      "base_km": 495.6354151198121,
+      "joint_km": 450.8633180896139,
+      "saving_pct": 9.03327237408473,
+      "matched": 1,
+      "extra_truck_minutes": 84.68484632272242
+    },
+    {
+      "speed": 45.0,
+      "seed": 6,
+      "infeasible": false,
+      "base_km": 574.7872498144495,
+      "joint_km": 520.4780399432451,
+      "saving_pct": 9.44857595375268,
+      "matched": 1,
+      "extra_truck_minutes": 55.18817491697733
+    },
+    {
+      "speed": 45.0,
+      "seed": 7,
+      "infeasible": false,
+      "base_km": 490.96455308193833,
+      "joint_km": 490.96455308193833,
+      "saving_pct": 0.0,
+      "matched": 0,
+      "extra_truck_minutes": 0
+    },
+    {
+      "speed": 45.0,
+      "seed": 8,
+      "infeasible": false,
+      "base_km": 478.60377053205576,
+      "joint_km": 416.3946875972895,
+      "saving_pct": 12.99803444206248,
+      "matched": 1,
+      "extra_truck_minutes": 83.91285589488919
+    },
+    {
+      "speed": 45.0,
+      "seed": 9,
+      "infeasible": false,
+      "base_km": 498.94731269368486,
+      "joint_km": 448.615304505373,
+      "saving_pct": 10.087639898606257,
+      "matched": 1,
+      "extra_truck_minutes": 49.37469140398335
+    },
+    {
+      "speed": 45.0,
+      "seed": 10,
+      "infeasible": false,
+      "base_km": 533.0199025108677,
+      "joint_km": 477.01669985754376,
+      "saving_pct": 10.506775148453697,
+      "matched": 1,
+      "extra_truck_minutes": 38.42747804552617
+    },
+    {
+      "speed": 45.0,
+      "seed": 11,
+      "infeasible": false,
+      "base_km": 547.0028957014797,
+      "joint_km": 496.803807084841,
+      "saving_pct": 9.177115699225517,
+      "matched": 1,
+      "extra_truck_minutes": 123.33030557251877
+    },
+    {
+      "speed": 45.0,
+      "seed": 12,
+      "infeasible": false,
+      "base_km": 492.55154660424625,
+      "joint_km": 438.55056825803615,
+      "saving_pct": 10.963518177641342,
+      "matched": 1,
+      "extra_truck_minutes": 101.28257421604457
+    },
+    {
+      "speed": 45.0,
+      "seed": 13,
+      "infeasible": false,
+      "base_km": 501.2285897448798,
+      "joint_km": 457.4691331699891,
+      "saving_pct": 8.730439059185311,
+      "matched": 1,
+      "extra_truck_minutes": 54.046624350581595
+    },
+    {
+      "speed": 45.0,
+      "seed": 14,
+      "infeasible": false,
+      "base_km": 438.96726783946076,
+      "joint_km": 395.79715676550296,
+      "saving_pct": 9.83447155101915,
+      "matched": 1,
+      "extra_truck_minutes": 110.72070966838666
+    },
+    {
+      "speed": 45.0,
+      "seed": 15,
+      "infeasible": false,
+      "base_km": 554.6523167184852,
+      "joint_km": 455.7780976943789,
+      "saving_pct": 17.826342024329822,
+      "matched": 4,
+      "extra_truck_minutes": 232.16961934233282
+    },
+    {
+      "speed": 45.0,
+      "seed": 16,
+      "infeasible": false,
+      "base_km": 483.28319762151193,
+      "joint_km": 429.20190937743973,
+      "saving_pct": 11.190392819414033,
+      "matched": 1,
+      "extra_truck_minutes": 84.79493858526303
+    },
+    {
+      "speed": 45.0,
+      "seed": 17,
+      "infeasible": false,
+      "base_km": 560.5722195842354,
+      "joint_km": 488.6207946919028,
+      "saving_pct": 12.835353301256612,
+      "matched": 1,
+      "extra_truck_minutes": 31.94841705575702
+    },
+    {
+      "speed": 45.0,
+      "seed": 18,
+      "infeasible": false,
+      "base_km": 493.46336405218915,
+      "joint_km": 493.46336405218915,
+      "saving_pct": 0.0,
+      "matched": 0,
+      "extra_truck_minutes": 0
+    },
+    {
+      "speed": 45.0,
+      "seed": 19,
+      "infeasible": false,
+      "base_km": 489.91473622684526,
+      "joint_km": 430.7962855662476,
+      "saving_pct": 12.067089697261942,
+      "matched": 1,
+      "extra_truck_minutes": 69.04331465136869
+    }
+  ],
+  "summary": [
+    {
+      "speed": 15.0,
+      "valid": 20,
+      "excluded": 0,
+      "mean_saving_pct": 9.169335526890793,
+      "mean_extra_delivery_truck_minutes": 101.27259253656982
+    },
+    {
+      "speed": 30.0,
+      "valid": 20,
+      "excluded": 0,
+      "mean_saving_pct": 9.260345319520692,
+      "mean_extra_delivery_truck_minutes": 75.55973890604217
+    },
+    {
+      "speed": 45.0,
+      "valid": 20,
+      "excluded": 0,
+      "mean_saving_pct": 9.260345319520692,
+      "mean_extra_delivery_truck_minutes": 70.74719141886531
+    }
+  ]
+}

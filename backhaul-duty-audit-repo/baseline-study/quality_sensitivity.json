@@ -1,0 +1,65 @@
+[
+  {
+    "setting": "holdout",
+    "cap": 1,
+    "n": 100,
+    "mean_saving_pct": 8.326353304976294,
+    "zero": 22,
+    "min_saving": 0.0,
+    "max_saving": 33.04712542915955
+  },
+  {
+    "setting": "holdout",
+    "cap": 2,
+    "n": 100,
+    "mean_saving_pct": 3.48836403838498,
+    "zero": 54,
+    "min_saving": 0.0,
+    "max_saving": 19.46078829333337
+  },
+  {
+    "setting": "holdout",
+    "cap": 3,
+    "n": 100,
+    "mean_saving_pct": 8.754746462929164,
+    "zero": 22,
+    "min_saving": 0.0,
+    "max_saving": 21.222412935178966
+  },
+  {
+    "setting": "holdout",
+    "cap": 6,
+    "n": 100,
+    "mean_saving_pct": 4.253775190281715,
+    "zero": 51,
+    "min_saving": 0.0,
+    "max_saving": 17.927816608630316
+  },
+  {
+    "setting": "central",
+    "cap": 6,
+    "n": 20,
+    "mean_saving_pct": 6.4636374209039795,
+    "zero": 0,
+    "min_saving": 2.7527063764328306,
+    "max_saving": 12.275680863994534
+  },
+  {
+    "setting": "reversed",
+    "cap": 6,
+    "n": 20,
+    "mean_saving_pct": 6.959381068357248,
+    "zero": 6,
+    "min_saving": 0.0,
+    "max_saving": 17.69010845384575
+  },
+  {
+    "setting": "opposite_corners",
+    "cap": 6,
+    "n": 20,
+    "mean_saving_pct": 2.6722020125576758,
+    "zero": 15,
+    "min_saving": 0.0,
+    "max_saving": 17.225216268282345
+  }
+]

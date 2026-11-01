@@ -1,0 +1,1 @@
+PASS: all guide numerical headlines agree with raw outputs and rounding.

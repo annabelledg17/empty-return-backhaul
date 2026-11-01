@@ -1,0 +1,48 @@
+[
+  {
+    "individual_limit": "none",
+    "n": 100,
+    "mean_pct_km_saving": 3.972275451264996,
+    "mean_pct_duty_saving": 2.3240917071988894,
+    "positive_worlds": 38,
+    "separate": {
+      "km": 436.61099201492834,
+      "duty_minutes": 1067.9219840298567,
+      "matched": 0,
+      "extra_delivery_minutes": 0,
+      "max_delivery_extra": 0,
+      "collector_trips": 2.98
+    },
+    "joint": {
+      "km": 419.21643093845125,
+      "duty_minutes": 1043.167633576386,
+      "matched": 0.56,
+      "extra_delivery_minutes": 37.163043860871674,
+      "max_delivery_extra": 27.304186313197917,
+      "collector_trips": 2.62
+    }
+  },
+  {
+    "individual_limit": 60,
+    "n": 100,
+    "mean_pct_km_saving": 2.254404436433869,
+    "mean_pct_duty_saving": 1.708475094827424,
+    "positive_worlds": 21,
+    "separate": {
+      "km": 436.61099201492834,
+      "duty_minutes": 1067.9219840298567,
+      "matched": 0,
+      "extra_delivery_minutes": 0,
+      "max_delivery_extra": 0,
+      "collector_trips": 2.98
+    },
+    "joint": {
+      "km": 426.79193396401655,
+      "duty_minutes": 1049.747584923426,
+      "matched": 0.28,
+      "extra_delivery_minutes": 13.965971703029112,
+      "max_delivery_extra": 10.778218103766763,
+      "collector_trips": 2.79
+    }
+  }
+]

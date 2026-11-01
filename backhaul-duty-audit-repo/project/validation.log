@@ -1,0 +1,2 @@
+{"status": "PASS", "independent_route_LP_checks": 550, "exhaustive_small_joint_checks": 60, "full_size_distance_regressions": 40}
+{"status": "PASS", "complete_frontiers_compared_to_exhaustive": 40}

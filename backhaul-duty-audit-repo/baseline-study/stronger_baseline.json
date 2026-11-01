@@ -1,0 +1,86 @@
+[
+  {
+    "cap": 3,
+    "method": "separate",
+    "mean_total_km": 509.15207848962774,
+    "mean_saving_pct": 0.0,
+    "zero_worlds": 20
+  },
+  {
+    "cap": 3,
+    "method": "greedy",
+    "mean_total_km": 463.1365262869038,
+    "mean_saving_pct": 8.945122082879596,
+    "zero_worlds": 3
+  },
+  {
+    "cap": 3,
+    "method": "joint",
+    "mean_total_km": 461.38813330203897,
+    "mean_saving_pct": 9.260345319520692,
+    "zero_worlds": 3
+  },
+  {
+    "cap": 4,
+    "method": "separate",
+    "mean_total_km": 449.400296643465,
+    "mean_saving_pct": 0.0,
+    "zero_worlds": 20
+  },
+  {
+    "cap": 4,
+    "method": "greedy",
+    "mean_total_km": 439.39805168556757,
+    "mean_saving_pct": 2.0420543789618835,
+    "zero_worlds": 13
+  },
+  {
+    "cap": 4,
+    "method": "joint",
+    "mean_total_km": 429.36080078010934,
+    "mean_saving_pct": 4.2484919665235905,
+    "zero_worlds": 9
+  },
+  {
+    "cap": 5,
+    "method": "separate",
+    "mean_total_km": 443.034818467786,
+    "mean_saving_pct": 0.0,
+    "zero_worlds": 20
+  },
+  {
+    "cap": 5,
+    "method": "greedy",
+    "mean_total_km": 427.7636282496419,
+    "mean_saving_pct": 3.4154632858498233,
+    "zero_worlds": 11
+  },
+  {
+    "cap": 5,
+    "method": "joint",
+    "mean_total_km": 425.00236668309805,
+    "mean_saving_pct": 3.9683616407175957,
+    "zero_worlds": 10
+  },
+  {
+    "cap": 6,
+    "method": "separate",
+    "mean_total_km": 442.9190424764383,
+    "mean_saving_pct": 0.0,
+    "zero_worlds": 20
+  },
+  {
+    "cap": 6,
+    "method": "greedy",
+    "mean_total_km": 427.7636282496419,
+    "mean_saving_pct": 3.389692718312175,
+    "zero_worlds": 11
+  },
+  {
+    "cap": 6,
+    "method": "joint",
+    "mean_total_km": 425.00236668309805,
+    "mean_saving_pct": 3.942591073179947,
+    "zero_worlds": 10
+  }
+]

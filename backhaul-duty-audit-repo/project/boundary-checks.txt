@@ -1,0 +1,16 @@
+test_backhaul_detour_and_time (__main__.BoundaryTests) ... ok
+test_backhaul_horizon (__main__.BoundaryTests) ... ok
+test_collector_exact_payload_and_window (__main__.BoundaryTests) ... ok
+test_collector_horizon (__main__.BoundaryTests) ... ok
+test_dominance_is_two_dimensional (__main__.BoundaryTests) ... ok
+test_empty_problem (__main__.BoundaryTests) ... ok
+test_individual_cap_is_inclusive (__main__.BoundaryTests) ... ok
+test_intraroute_wait_cannot_all_be_removed (__main__.BoundaryTests) ... ok
+test_no_matches_keeps_reference (__main__.BoundaryTests) ... ok
+test_verifier_rejects_duplicate_job (__main__.BoundaryTests) ... ok
+test_wait_is_before_departure (__main__.BoundaryTests) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.001s
+
+OK
